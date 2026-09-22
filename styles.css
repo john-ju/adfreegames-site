@@ -42,8 +42,8 @@ a:hover{color:#c58cff}
 .btn:hover{transform:translateY(-2px);box-shadow:0 0 0 1px rgba(255,255,255,.25) inset,0 14px 40px rgba(173,97,255,.6);color:#14082a}
 .btn.ghost{background:var(--panel);color:var(--text);box-shadow:0 0 0 1px var(--stroke) inset}
 .btn.ghost:hover{color:var(--text);box-shadow:0 0 0 1px rgba(255,255,255,.3) inset}
-.cta-row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
-.fine{color:var(--text-3);font-size:.85rem;margin-top:12px}
+.cta-row{display:flex;gap:12px;row-gap:14px;flex-wrap:wrap;align-items:center}
+.fine{color:var(--text-3);font-size:.85rem;margin-top:28px}
 .phones{position:relative;display:flex;justify-content:center;align-items:flex-end;gap:0;min-height:420px}
 .phones img{width:46%;border-radius:26px;border:1px solid var(--stroke);box-shadow:0 30px 60px rgba(0,0,0,.6);background:#000}
 .phones img.back{transform:translate(18%,0) rotate(6deg) scale(.92);opacity:.85}
