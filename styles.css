@@ -1,7 +1,7 @@
 :root{
   --purple:#ad61ff;--blue:#388fff;--green:#47d973;--pink:#f24f9e;--amber:#ffa633;
   --teal:#40e6d9;--sun:#ffdb47;--lime:#b3f54d;--flame:#ff7833;--heart:#ff5470;--mint:#5cffb3;
-  --orchid:#de6bff;--coral:#ff8f6b;--ice:#a8ebff;
+  --orchid:#de6bff;--coral:#ff8f6b;--ice:#a8ebff;--bubblegum:#ff94cc;
   --bg-top:#1d1139;--bg-bottom:#090516;--panel:rgba(255,255,255,.08);--stroke:rgba(255,255,255,.14);
   --text:#fff;--text-2:rgba(255,255,255,.72);--text-3:rgba(255,255,255,.45);
   --font:ui-rounded,"SF Pro Rounded","Nunito","Varela Round",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
