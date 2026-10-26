@@ -1,9 +1,10 @@
 # Ad-Free Games
 
-> Fifteen kids' games in one iPhone and iPad app with no ads, no tracking, no accounts and no internet needed. Hole is free to play. One optional, one-time Arcade Pack purchase ($4.99 in the US App Store) unlocks every other game, present and future, and is shared with Family Sharing. No subscriptions, no coins or gems for sale. Made by One Light Media LLC, a parent-run studio. Rated 4+.
+> Fifteen kids' games in one app for iPhone, iPad and Android with no ads, no tracking, no accounts and no internet needed. Hole is free to play. One optional, one-time Arcade Pack purchase ($4.99 in the US App Store) unlocks every other game, present and future (shared with Family Sharing on iPhone and iPad). No subscriptions, no coins or gems for sale. Made by One Light Media LLC, a parent-run studio. Rated 4+.
 
 - App Store: https://apps.apple.com/app/id6783953439
+- Google Play: https://play.google.com/store/apps/details?id=app.adfreegames
 - Games: Hole (free), Tower Stack, Pocket Pet, Gem Swap, Road Hop, Block Burst, Mancala, Stack Smash, Fruit Merge, Tiny Town, Snake, Space Shooter, Coloring, Connect 4, Tic Tac Toe
-- Platforms: iPhone and iPad only (no Android version yet)
+- Platforms: iPhone, iPad and Android (Android 8.0+)
 - Support: https://adfreegames.app/support.html · onelightmediallc@gmail.com
 - Privacy policy: https://adfreegames.app/privacy.html (no data collected)
