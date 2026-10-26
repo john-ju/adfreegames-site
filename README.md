@@ -1,6 +1,6 @@
 # adfreegames.app
 
-Static marketing and legal site for the Ad-Free Games iOS app, hosted on GitHub Pages.
+Static marketing and legal site for the Ad-Free Games app (iOS and Android), hosted on GitHub Pages.
 
 - `index.html` – landing page
 - `privacy.html`, `terms.html`, `support.html` – legal and support pages
